@@ -6,21 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/baoyun) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-宝云(BaoYun) 的套餐页标注**全节点海外／中转支持**，提供通用订阅及多地区 Netflix 等流媒体解锁。月付从 **¥4、200GB/月**起，另有 **¥19/季度、500GB/月**的轻量特惠，以及总计 200GB、500GB、1000GB 的不限时流量包，**流量用完即止**。
-
 > [!NOTE]
 > **30 秒看懂宝云(BaoYun)**
 >
-> - **常规月付**：福宝 200GB/月、¥4/月；财宝 500GB/月、¥8/月；金宝 1000GB/月、¥16/月，同时在线设备分别为 3、4、5 台。
-> - **季付轻量特惠**：¥19/季度，每月 500GB，支持 3 台设备同时在线，仅提供季付。
-> - **最低年付**：福宝 ¥48/年，每月 200GB，折合 ¥4/月；年付为付款周期，流量按月重置。
-> - **专属 8 折优惠码**：结算时输入 `eoht`，适用套餐与最终实付金额以结算页为准。
-> - **不限时流量**：传家宝 200GB/¥29、传世宝 500GB/¥39、传承宝 1000GB/¥59，均为总流量，不限时，流量用完即止，同时在线设备均为 3 台。
-> - **速度与解锁**：套餐页标注速度不限制，支持多地区 Netflix 与其他流媒体解锁；实际速度取决于网络与节点状态。
-> - **通用订阅**：可导入兼容的第三方客户端，具体协议和订阅格式以机场提供的链接为准。
+> [访问官网](https://eoht.net/serve/airport/baoyun) · [查看套餐与优惠码](https://eoht.net/serve/airport/baoyun#baoyun-vpn-plans) · [查看使用规则](https://eoht.net/serve/airport/baoyun#baoyun-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/baoyun#baoyun-vpn-plans) · [查看使用规则](https://eoht.net/serve/airport/baoyun#baoyun-usage-rules) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：福宝 ¥4/月、200GB/月，限 3 台设备同时在线；轻量特惠仅季付，¥19/季度、500GB/月，同为 3 台。
+> - **不限时流量**：一次性 ¥29 起、总计 200GB 起，流量用完即止、不按月重置，最多 3 台设备同时在线。
+> - **使用与优惠**：提供海外／中转节点与通用订阅，可导入兼容的第三方客户端；`eoht` 享 8 折，适用套餐与最终实付金额以结算页为准。
 >
+
+宝云(BaoYun) 的套餐页标注**全节点海外／中转支持**，提供通用订阅及多地区 Netflix 等流媒体解锁。月付从 **¥4、200GB/月**起，另有 **¥19/季度、500GB/月**的轻量特惠，以及总计 200GB、500GB、1000GB 的不限时流量包，**流量用完即止**。
 
 <a id="baoyun-official-website"></a>
 
